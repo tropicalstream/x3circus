@@ -5,6 +5,13 @@ Free software, GPL v3 (see LICENSE). Derived from `x3breakout`, which is GPL v3.
 A clown falls. You slide a seesaw under him. He lands on one end, which flings
 the *other* clown up into the balloons. Miss, and he finds the sawdust.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="x3circus title screen">
+  <img src="images/gameplay.png" width="45%" alt="x3circus gameplay with clown on the seesaw and balloon rows">
+</p>
+
 ## Controls
 
 | gesture | |
